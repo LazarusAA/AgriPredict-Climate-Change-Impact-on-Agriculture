@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## **Dataset** 
 
-The dataset used includes variables related to climate and agricultural outcomes, such as temperature, CO2 emissions, crop yield, and economic impact. You can use your own dataset in ```.csv``` format by placing it in the root directory and updating the file path in the notebook.
+The dataset used for this project comes from [Kaggle](https://www.kaggle.com). It contains features related to climate change and agriculture, such as average temperature, CO2 emissions, precipitation, crop yield, and economic impact.
 
 ## **Usage**
 
